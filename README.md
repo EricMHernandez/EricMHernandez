@@ -11,7 +11,7 @@ My name is Eric Hernandez and I'm a software Engineer currently based in NYC! He
 
 <!--   Email -->
 <a href="mailto:erich7912@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-erich7912%40gmail.com-5BC9FC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/EMAIL-erich7912%40gmail.com-0F2DD9?style=for-the-badge"/>
 </a>
 
 ## 🔧 My tools & technologies:
